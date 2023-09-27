@@ -1,0 +1,45 @@
+.subscribe__container {
+    width: 1140px;
+    height: 233px;
+    border-radius: 10px;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(122px);
+}
+
+.subscribe__container__right {
+    margin: 84px 70px;
+}
+
+.subscribe__container__left {
+    width: 372px;
+    margin-left: 70px;
+    margin-top: 58px;
+}
+
+.subscribe__btn {
+    color: #FFF;
+    font-weight: 700;
+    line-height: 25px; /* 156.25% */
+}
+
+.subscribe__btn {
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    background: #F53838;
+}
+
+.subscribe__container__left h2 {
+    color: #0B132A;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 45px; /* 128.571% */
+}
+
+.subscribe__container__left p {
+    color: #4F5665;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+}

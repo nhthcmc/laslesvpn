@@ -1,0 +1,37 @@
+.network-text h2 {
+    color: #0B132A;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px; /* 142.857% */
+    width: 384px;
+    margin: auto;
+}
+
+.network-text p {
+    color: #4F5665;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+    width: 555px;
+    margin: auto;
+    padding: 20px 0 155px;
+}
+
+.network-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.sponsor-list {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 80px;
+}
+
+.sponsor-item {
+    width: 190px;
+}
